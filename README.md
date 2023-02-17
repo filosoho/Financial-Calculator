@@ -11,6 +11,8 @@ bond       - to calculate the amount you'll have to pay on a home loan
 
 The user can enter either investment or bond to proceed with the selected calculator. If the user enters an invalid option, an error message is displayed.
 
+![alt text](https://github.com/filosoho/financial-calculator/blob/d9d1af554640a20a9e986cb64fe3249181234b0e/Financial%20Calculator.png?raw=true)
+
 
 # Investment Calculator
 
