@@ -11,7 +11,43 @@ bond       - to calculate the amount you'll have to pay on a home loan
 
 The user can enter either investment or bond to proceed with the selected calculator. If the user enters an invalid option, an error message is displayed.
 
-![alt text](https://github.com/filosoho/financial-calculator/blob/d9d1af554640a20a9e986cb64fe3249181234b0e/Financial%20Calculator.png?raw=true)
+~~~
+                        ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+                        ⠀⠀⠀⠀⠀⠀⢯⠙⠩⠀⡇⠊⠽⢖⠆⠀⠀⠀⠀⠀
+                        ⠀⠀⠀⠀⠀⠀⠀⠱⣠⠀⢁⣄⠔⠁⠀⠀⠀⠀⠀⠀
+                        ⠀⠀⠀⠀⠀⠀⠀⠀⣷⣶⣾⣾⠀⠀⠀⠀⠀⠀⠀⠀
+                        ⠀⠀⠀⠀⠀⠀⢀⡔⠙⠈⢱⡟⣧⠀⠀⠀⠀⠀⠀⠀
+                        ⠀⠀⠀⠀⠀⡠⠊⠀⠀⣀⡀⠀⠘⠕⢄⠀⠀⠀⠀⠀
+                        ⠀⠀⠀⢀⠞⠀⠀⢀⣠⣿⣧⣀⠀⠀⢄⠱⡀⠀⠀⠀
+                        ⠀⠀⡰⠃⠀⠀⢠⣿⠿⣿⡟⢿⣷⡄⠀⠑⢜⢆⠀⠀
+                        ⠀⢰⠁⠀⠀⠀⠸⣿⣦⣿⡇⠀⠛⠋⠀⠨⡐⢍⢆⠀
+                        ⠀⡇⠀⠀⠀⠀⠀⠙⠻⣿⣿⣿⣦⡀⠀⢀⠨⡒⠙⡄
+                        ⢠⠁⡀⠀⠀⠀⣤⡀⠀⣿⡇⢈⣿⡷⠀⠠⢕⠢⠁⡇
+                        ⠸⠀⡕⠀⠀⠀⢻⣿⣶⣿⣷⣾⡿⠁⠀⠨⣐⠨⢀⠃
+                        ⠀⠣⣩⠘⠀⠀⠀⠈⠙⣿⡏⠁⠀⢀⠠⢁⡂⢉⠎⠀
+                        ⠀⠀⠈⠓⠬⢀⣀⠀⠀⠈⠀⠀⠀⢐⣬⠴⠒⠁⠀⠀
+                        ⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀
+  _                                      _
+ |_  o  ._    _.  ._    _  o   _.  |    /    _.  |   _       |   _.  _|_   _   ._
+ |   |  | |  (_|  | |  (_  |  (_|  |    \_  (_|  |  (_  |_|  |  (_|   |_  (_)  |
+
+
+────────────────────────────────────────────────────────────────────────────────────
+investment - to calculate the amount of interest you'll earn on your investment
+bond       - to calculate the amount you'll have to pay on a home loan
+────────────────────────────────────────────────────────────────────────────────────
+
+Enter either 'investment' or 'bond' from the menu above to proceed: investment
+How much money would you like to deposit? 2000
+Enter the interest rate (only number): 8
+How many years do you plan on investing? 10
+Would you like 'simple' or 'compound' interest? simple
+
+----------------------------------------------------------------------------------------------------------------------------
+After 10.0 years you will get back 3600.0, at the 8.0% interest rate.
+----------------------------------------------------------------------------------------------------------------------------
+~~~  
+
 
 
 # Investment Calculator
